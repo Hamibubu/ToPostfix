@@ -1,3 +1,2 @@
 # ToPostfix
-
-Changes an expression from infix to postfix
+Data structures project that changes an expression from infix to postfix
